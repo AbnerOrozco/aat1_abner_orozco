@@ -3,7 +3,7 @@
 
 - Fecha : 08/05/2024        
 - Carrera : Desarrollador FullStack
-- Modulo 1 - resultado de aprendisaje 3
+- Modulo 1 - resultado de aprendisaje 1
 - 
 
 |carnet|nombre|
@@ -12,7 +12,7 @@
 
 ### Descripcion del Proyecto
 
-> Este proyecto consta de 1 pagina
+> Este proyecto consta de 3 pagina
 > inicio, productos/servicios, tienda
 > registrarse
 > la tecnnologia utilizada fue unicamente
