@@ -12,7 +12,7 @@
 
 ### Descripcion del Proyecto
 
-> Este proyecto consta de 3 pagina
+> Este proyecto consta de 1 pagina
 > inicio, productos/servicios, tienda
 > registrarse
 > la tecnnologia utilizada fue unicamente
